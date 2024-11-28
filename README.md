@@ -1,3 +1,3 @@
--👋 Hi, I’m @ValodokaGames
--👤 This is the account for the website <a href="//valodokagames.github.io" target="_blank">valodokagames.github.io</a>.
--🙂 I hope you will enjoy my website! Follow me for exciting updates!
+- 👋 Hi, I’m @ValodokaGames
+- 👤 This is the account for the website <a href="//valodokagames.github.io" target="_blank">valodokagames.github.io</a>.
+- 🙂 I hope you will enjoy my website! Follow me for exciting updates!
